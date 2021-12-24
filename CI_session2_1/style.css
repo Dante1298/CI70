@@ -1,0 +1,16 @@
+#container {
+    margin: 0;
+    padding: 0;
+    font-family: 'Poppins', sans-serif;
+    width: 100px;
+    height: 100px;
+}
+#input_num, #submit {
+    font-size: 1.6rem;
+    margin-top: 8px;
+}
+form {
+    margin-top: 8px;
+    font-size: 1.2rem;
+    width: 300px;
+}
